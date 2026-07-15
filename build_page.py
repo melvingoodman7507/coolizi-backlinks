@@ -148,7 +148,7 @@ We're building backlinks to the <b>Coolizi review pages</b> (<code>trycoolizi.co
 <div class="h"><b>Google Sites</b> <span class="tag df">dofollow</span><ol><li>sites.google.com → blank site</li><li>Paste the title + article text</li><li>Highlight the anchor phrase → <b>Insert → Link</b> → paste the URL</li><li>Publish → make it public</li></ol></div>
 <div class="h"><b>Medium</b> <span class="tag nf">nofollow</span><ol><li>New story</li><li>Paste title + text</li><li>Highlight phrase → <b>Ctrl/Cmd+K</b> → paste URL → Enter</li><li>Publish (public)</li></ol></div>
 <div class="h"><b>Tumblr</b> <span class="tag nf">nofollow</span><ol><li>New text post</li><li>Paste title + text</li><li>Highlight phrase → link icon → paste URL</li><li>Post (public, allow indexing)</li></ol></div>
-<div class="h"><b>Substack</b> <span class="tag nf">nofollow</span><ol><li>substack.com → start a free publication → <b>New post</b></li><li>Paste the title + article text</li><li>Highlight phrase → link button (<b>Ctrl/Cmd+K</b>) → paste URL</li><li>Publish (public — leave "let readers discover" on)</li></ol></div>
+<div class="h"><b>Substack</b> <span class="tag df">dofollow</span><ol><li>substack.com → free publication (email only, <b>no phone</b>) → <b>New post → Text</b></li><li>Paste the title + article text</li><li>Highlight phrase → <b>Ctrl/Cmd+K</b> → paste URL</li><li>Publish · audience = <b>Everyone</b> (public)</li></ol></div>
 </div><p style="color:var(--mut);font-size:12px;margin:12px 0 0">nofollow links still count: they drive real referral clicks and make the backlink profile look natural. Keep a healthy mix.</p></div>
 
 {"".join(CARDS)}
